@@ -1,0 +1,17 @@
+.screen-show {
+  height: 75px;
+  width: 100%;
+  margin-bottom: 20px;
+  padding-right: 30px;
+ 
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  font-weight: bold;
+  font-size: 30px;
+  background-color: #112;
+  color: white;
+  border: 2px solid white;
+  border-radius: 35px; 
+  box-shadow: -1px 4px 1px 1px white;
+}
