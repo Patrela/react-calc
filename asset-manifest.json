@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Patrela/react-calc/static/css/main.807d2a5a.css",
-    "main.js": "/Patrela/react-calc/static/js/main.fc31d9b6.js",
+    "main.js": "/Patrela/react-calc/static/js/main.e178498a.js",
     "static/media/MU_500x150.png": "/Patrela/react-calc/static/media/MU_500x150.52c88d5f9f17b7c922b4.png",
     "index.html": "/Patrela/react-calc/index.html",
     "main.807d2a5a.css.map": "/Patrela/react-calc/static/css/main.807d2a5a.css.map",
-    "main.fc31d9b6.js.map": "/Patrela/react-calc/static/js/main.fc31d9b6.js.map"
+    "main.e178498a.js.map": "/Patrela/react-calc/static/js/main.e178498a.js.map"
   },
   "entrypoints": [
     "static/css/main.807d2a5a.css",
-    "static/js/main.fc31d9b6.js"
+    "static/js/main.e178498a.js"
   ]
 }
